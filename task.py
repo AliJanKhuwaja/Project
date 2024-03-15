@@ -45,5 +45,5 @@ def update_csv():
                                             ["null","null","null","null"]]
     database.to_csv("database.csv")
 
-if __name__=="main":
+if __name__=="__main__":
     update_csv()
