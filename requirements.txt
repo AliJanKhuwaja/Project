@@ -1,0 +1,6 @@
+newsapi
+requests
+pandas
+pymysql
+random
+openai
