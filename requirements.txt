@@ -1,4 +1,4 @@
-newsapi
+newsapi-python
 requests
 pandas
 pymysql
